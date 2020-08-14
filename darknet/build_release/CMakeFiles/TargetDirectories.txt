@@ -1,0 +1,9 @@
+/home/david/darknet/build_release/CMakeFiles/install/strip.dir
+/home/david/darknet/build_release/CMakeFiles/install/local.dir
+/home/david/darknet/build_release/CMakeFiles/install.dir
+/home/david/darknet/build_release/CMakeFiles/uselib.dir
+/home/david/darknet/build_release/CMakeFiles/edit_cache.dir
+/home/david/darknet/build_release/CMakeFiles/rebuild_cache.dir
+/home/david/darknet/build_release/CMakeFiles/darknet.dir
+/home/david/darknet/build_release/CMakeFiles/dark.dir
+/home/david/darknet/build_release/CMakeFiles/list_install_components.dir

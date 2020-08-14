@@ -1,0 +1,9 @@
+/home/david/darknet/libdark.so
+/home/david/darknet/include/darknet/darknet.h
+/home/david/darknet/include/darknet/yolo_v2_class.hpp
+/home/david/darknet/uselib
+/home/david/darknet/darknet
+/home/david/darknet/share/darknet/DarknetTargets.cmake
+/home/david/darknet/share/darknet/DarknetTargets-release.cmake
+/home/david/darknet/share/darknet/DarknetConfig.cmake
+/home/david/darknet/share/darknet/DarknetConfigVersion.cmake
